@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T03:17:05.151Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="I4Q0OM8ZNMFUUflCRTCR" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T03:17:43.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="TkLU8BZ3UxHpiHazsrlH" version="15.7.3" type="github">
   <diagram id="qBd_tLGPg-DSYs_yWLyH" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="63GNxuutIX2Jem26zwdh-24" value="Sensor Noise" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="63GNxuutIX2Jem26zwdh-33" value="$\hat{X}$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="63GNxuutIX2Jem26zwdh-33" value="$\hat{X}$&lt;br&gt;Estimated variables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="120" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
